@@ -1,6 +1,9 @@
 # image-croppie-js
 網頁圖片裁切套件croppie js demo
 
+### codepen demo
+* https://codepen.io/maggyLin/pen/NWbBOEP
+
 ### 官網
 * http://foliotek.github.io/Croppie/
 
